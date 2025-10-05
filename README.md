@@ -1,10 +1,9 @@
  🎨 Personal Whiteboard Web App - CGS Task
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://isnt-it-me.github.io/Personal-Whiteboard-Web-App/) 
-*(Replace this link with your actual GitHub Pages link if it's different!)*
+
 
 ![Screenshot of the Whiteboard App](./assets/screenshot.png)
-*(**Important**: Add a screenshot of your app to your `assets` folder and name it `screenshot.png` for the image above to work!)*
 
 ## 📋 About The Project
 
